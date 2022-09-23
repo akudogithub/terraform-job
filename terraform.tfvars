@@ -1,0 +1,7 @@
+vpc_cidr_block = "10.0.0.0/16"
+#my_ip          = "80.208.218.141"
+web_subnet     = "10.0.100.0/24"
+subnet_zone    = "us-west-2a"
+main_vpc_name  = "Main VPC"
+ssh_public_key = "/home/akudo/.ssh/code_rsa.pub"
+ami_id         = "ami-000340e2c761dddcd"
